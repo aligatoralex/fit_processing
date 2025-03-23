@@ -1,0 +1,10 @@
+timestamp,start_time,start_position_lat,start_position_long,end_position_lat,end_position_long,total_elapsed_time,total_timer_time,total_distance,total_strides,total_calories,enhanced_avg_speed,avg_speed,enhanced_max_speed,max_speed,total_ascent,total_descent,event,event_type,avg_heart_rate,max_heart_rate,avg_running_cadence,max_running_cadence,lap_trigger,sub_sport,avg_fractional_cadence,max_fractional_cadence,total_fractional_cycles,avg_vertical_oscillation,avg_temperature,max_temperature,timestamp_utc,timezone
+2025-02-06 14:09:35-06:00,2025-02-06 20:04:51,,,,,283.628,283.018,200.0,,74,2.5452,2.5452,5.0292,5.0292,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2025-02-06 20:09:35,
+2025-02-06 14:10:34-06:00,2025-02-06 20:09:35,,,,,59.391,59.391,,,4,,,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2025-02-06 20:10:34,
+2025-02-06 14:11:34-06:00,2025-02-06 20:10:34,,,,,60.129,60.008,50.0,,15,2.9988,2.9988,4.9716000000000005,4.9716000000000005,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2025-02-06 20:11:34,
+2025-02-06 14:11:44-06:00,2025-02-06 20:11:34,,,,,9.879,9.879,,,2,,,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2025-02-06 20:11:44,
+2025-02-06 14:13:57-06:00,2025-02-06 20:11:44,,,,,132.904,132.003,100.0,,36,2.7288,2.7288,4.3740000000000006,4.3740000000000006,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2025-02-06 20:13:57,
+2025-02-06 14:15:24-06:00,2025-02-06 20:13:57,,,,,86.819,19.099,,,0,,,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2025-02-06 20:15:24,
+2025-02-06 14:19:05-06:00,2025-02-06 20:15:24,,,,,221.485,221.007,150.0,,47,2.4444000000000004,2.4444000000000004,7.2396,7.2396,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2025-02-06 20:19:05,
+2025-02-06 14:19:35-06:00,2025-02-06 20:19:05,,,,,29.521,29.521,,,2,,,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2025-02-06 20:19:35,
+2025-02-06 14:22:01-06:00,2025-02-06 20:19:35,,,,,146.109,146.109,50.0,,18,1.2312,1.2312,1.9152000000000002,1.9152000000000002,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2025-02-06 20:22:01,

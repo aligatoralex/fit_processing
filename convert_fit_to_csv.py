@@ -11,10 +11,12 @@ import os
 import fitparse
 import pytz
 from copy import copy
-from tzwhere import tzwhere
+# from tzwhere import tzwhere
+from timezonefinder import TimezoneFinder
 
-print('Initializing tzwhere')
-tzwhere = tzwhere.tzwhere()
+print('Initializing TimezoneFinder')
+# tzwhere = tzwhere.tzwhere()
+tzwhere = TimezoneFinder()
 
 tz_fields = ['timestamp_utc', 'timezone']
 
@@ -184,13 +186,13 @@ def write_fitfile_to_csv(
                         pass
                 if position_lat is not None and position_long is not None:
                     changed_tz = True
-                    tz_name = tzwhere.tzNameAt(position_lat, position_long)
+                    tz_name = tzwhere.timezone_at(lng=position_long, lat=position_lat)
                     if tz_name is None:
                         for latoff in [-0.1, 0, 0.1]:
                             for longoff in [-0.1, 0, 0.1]:
-                                tz_name = tzwhere.tzNameAt(
-                                    position_lat + latoff,
-                                    position_long + longoff
+                                tz_name = tzwhere.timezone_at(
+                                    lng=position_long + longoff,
+                                    lat=position_lat + latoff
                                 )
                                 if tz_name is not None:
                                     break

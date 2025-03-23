@@ -1,0 +1,11 @@
+timestamp,start_time,start_position_lat,start_position_long,end_position_lat,end_position_long,total_elapsed_time,total_timer_time,total_distance,total_strides,total_calories,enhanced_avg_speed,avg_speed,enhanced_max_speed,max_speed,total_ascent,total_descent,event,event_type,avg_heart_rate,max_heart_rate,avg_running_cadence,max_running_cadence,lap_trigger,sub_sport,avg_fractional_cadence,max_fractional_cadence,total_fractional_cycles,avg_vertical_oscillation,avg_temperature,max_temperature,timestamp_utc,timezone
+2025-01-16 14:18:15-06:00,2025-01-16 20:16:37,,,,,98.4,98.4,75.0,,22,2.7432000000000003,2.7432000000000003,4.5072,4.5072,,,lap,stop,123,131,,,manual,lap_swimming,0.125,,,,,,2025-01-16 20:18:15,
+2025-01-16 14:18:43-06:00,2025-01-16 20:18:15,,,,,28.238,28.238,0.0,,3,0.0,0.0,0.0,0.0,,,lap,stop,143,146,,,manual,lap_swimming,,,,,,,2025-01-16 20:18:43,
+2025-01-16 14:19:00-06:00,2025-01-16 20:18:43,,,,,16.953,16.953,25.0,,3,5.3100000000000005,5.3100000000000005,5.3100000000000005,5.3100000000000005,,,lap,stop,137,138,,,manual,lap_swimming,0.7734375,,,,,,2025-01-16 20:19:00,
+2025-01-16 14:19:11-06:00,2025-01-16 20:19:00,,,,,11.056,11.056,0.0,,2,0.0,0.0,0.0,0.0,,,lap,stop,140,141,,,manual,lap_swimming,,,,,,,2025-01-16 20:19:11,
+2025-01-16 14:19:33-06:00,2025-01-16 20:19:11,,,,,21.353,21.353,25.0,,4,4.2156,4.2156,4.2156,4.2156,,,lap,stop,141,141,,,manual,lap_swimming,0.1015625,,,,,,2025-01-16 20:19:33,
+2025-01-16 14:20:25-06:00,2025-01-16 20:19:33,,,,,52.524,52.524,0.0,,2,0.0,0.0,0.0,0.0,,,lap,stop,133,143,,,manual,lap_swimming,,,,,,,2025-01-16 20:20:25,
+2025-01-16 14:21:38-06:00,2025-01-16 20:20:25,,,,,72.838,72.838,50.0,,13,2.4696000000000002,2.4696000000000002,3.5676,3.5676,,,lap,stop,122,130,,,manual,lap_swimming,0.4765625,,,,,,2025-01-16 20:21:38,
+2025-01-16 14:23:21-06:00,2025-01-16 20:21:38,,,,,103.135,103.135,0.0,,4,0.0,0.0,0.0,0.0,,,lap,stop,122,133,,,manual,lap_swimming,,,,,,,2025-01-16 20:23:21,
+2025-01-16 14:23:33-06:00,2025-01-16 20:23:21,,,,,11.534,11.534,25.0,,0,7.8012,7.8012,7.8012,7.8012,,,lap,stop,104,107,,,manual,lap_swimming,0.609375,,,,,,2025-01-16 20:23:33,
+2025-01-16 14:24:28-06:00,2025-01-16 20:23:33,,,,,55.196,55.196,0.0,,2,0.0,0.0,0.0,0.0,,,lap,stop,96,104,,,manual,lap_swimming,,,,,,,2025-01-16 20:24:28,

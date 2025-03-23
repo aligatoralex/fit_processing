@@ -1,0 +1,13 @@
+timestamp,start_time,start_position_lat,start_position_long,end_position_lat,end_position_long,total_elapsed_time,total_timer_time,total_distance,total_strides,total_calories,enhanced_avg_speed,avg_speed,enhanced_max_speed,max_speed,total_ascent,total_descent,event,event_type,avg_heart_rate,max_heart_rate,avg_running_cadence,max_running_cadence,lap_trigger,sub_sport,avg_fractional_cadence,max_fractional_cadence,total_fractional_cycles,avg_vertical_oscillation,avg_temperature,max_temperature,timestamp_utc,timezone
+2024-10-25 11:55:14+02:00,2024-10-25 07:08:10,,,,,10023.821,10023.821,7970.85,,1517,2.862,2.862,,,,,lap,stop,126,166,,,manual,generic,0.8515625,0.2890625,,,,,2024-10-25 09:55:14,Europe/Warsaw
+2024-10-25 12:04:25+02:00,2024-10-25 09:55:14,,,,,551.5,551.5,309.12,,82,2.0196,2.0196,,,,,lap,stop,134,159,,,manual,generic,0.171875,0.03125,,,,,2024-10-25 10:04:25,Europe/Warsaw
+2024-10-25 12:17:35+02:00,2024-10-25 10:04:25,,,,,789.887,789.887,155.96,,27,0.7092,0.7092,,,,,lap,stop,111,121,,,manual,generic,0.53125,0.5703125,,,,,2024-10-25 10:17:35,Europe/Warsaw
+2024-10-25 12:27:53+02:00,2024-10-25 10:17:35,,,,,618.128,604.312,558.52,,58,3.4055999999999997,3.4055999999999997,,,,,lap,stop,115,126,,,manual,generic,0.296875,0.5859375,,,,,2024-10-25 10:27:53,Europe/Warsaw
+2024-10-25 12:34:07+02:00,2024-10-25 10:27:53,,,,,373.754,373.754,316.61,,44,3.0492,3.0492,,,,,lap,stop,118,126,,,manual,generic,0.578125,0.1328125,,,,,2024-10-25 10:34:07,Europe/Warsaw
+2024-10-25 12:45:02+02:00,2024-10-25 10:34:07,,,,,655.46,655.46,602.01,,68,3.3048,3.3048,,,,,lap,stop,113,123,,,manual,generic,0.7421875,0.1328125,,,,,2024-10-25 10:45:02,Europe/Warsaw
+2024-10-25 12:45:04+02:00,2024-10-25 10:45:02,,,,,1.671,1.671,0.0,,0,0.0,0.0,,,,,lap,stop,,,,,manual,generic,0.4375,0.4375,,,,,2024-10-25 10:45:04,Europe/Warsaw
+2024-10-25 12:45:05+02:00,2024-10-25 10:45:04,,,,,0.649,0.649,0.0,,0,0.0,0.0,,,,,lap,stop,,,,,manual,generic,0.4375,0.4375,,,,,2024-10-25 10:45:05,Europe/Warsaw
+2024-10-25 12:45:05+02:00,2024-10-25 10:45:05,,,,,0.198,0.198,0.0,,0,0.0,0.0,,,,,lap,stop,,,,,manual,generic,0.4375,0.4375,,,,,2024-10-25 10:45:05,Europe/Warsaw
+2024-10-25 12:45:06+02:00,2024-10-25 10:45:05,,,,,0.767,0.767,0.0,,0,0.0,0.0,,,,,lap,stop,,,,,manual,generic,0.4375,0.4375,,,,,2024-10-25 10:45:06,Europe/Warsaw
+2024-10-25 12:45:16+02:00,2024-10-25 10:45:06,,,,,9.883,9.883,0.0,,0,0.0,0.0,,,,,lap,stop,117,118,,,manual,generic,0.4375,0.4375,,,,,2024-10-25 10:45:16,Europe/Warsaw
+2024-10-25 14:03:33+02:00,2024-10-25 10:45:16,,,,,4697.773,4697.773,5023.24,,363,3.8484,3.8484,,,,,lap,stop,106,126,,,session_end,generic,0.9140625,0.03125,,,,,2024-10-25 12:03:33,Europe/Warsaw

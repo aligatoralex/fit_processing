@@ -1,0 +1,4 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2025-01-04 04:41:51+01:00,manual,timer,start,0,2025-01-04 03:41:51,Europe/Warsaw
+2025-01-04 05:00:34+01:00,manual,timer,stop_all,0,2025-01-04 04:00:34,Europe/Warsaw
+2025-01-04 05:00:35+01:00,manual,timer,start,0,2025-01-04 04:00:35,Europe/Warsaw

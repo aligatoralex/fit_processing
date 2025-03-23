@@ -1,0 +1,7 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2024-08-18 18:53:14+02:00,manual,timer,start,0,2024-08-18 16:53:14,Europe/Warsaw
+2024-08-18 18:56:25+02:00,manual,timer,stop_all,0,2024-08-18 16:56:25,Europe/Warsaw
+2024-08-18 18:56:43+02:00,manual,timer,start,0,2024-08-18 16:56:43,Europe/Warsaw
+2024-08-18 18:56:51+02:00,manual,timer,stop_all,0,2024-08-18 16:56:51,Europe/Warsaw
+2024-08-18 18:58:02+02:00,manual,timer,start,0,2024-08-18 16:58:02,Europe/Warsaw
+2024-08-18 18:58:12+02:00,manual,timer,stop_all,0,2024-08-18 16:58:12,Europe/Warsaw

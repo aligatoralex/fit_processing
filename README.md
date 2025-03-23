@@ -10,7 +10,7 @@ Requirements:
 
  * fitparse (installation instructions below)
 
- * tzwhere (to localize timezones)
+ * timezonefinder (to localize timezones)
 
  * pytz (to localize timezones)
 
@@ -27,6 +27,10 @@ First, install `fitparse`
 OR
 
     sudo pip3 install fitparse
+
+Then install `timezonefinder`
+
+    sudo pip3 install timezonefinder
 
 Then you can execute `process_all.py`
 

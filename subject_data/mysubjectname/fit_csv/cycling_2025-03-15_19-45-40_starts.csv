@@ -1,0 +1,11 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2025-03-15 20:45:40+01:00,manual,timer,start,0,2025-03-15 19:45:40,Europe/Warsaw
+2025-03-15 20:45:51+01:00,manual,timer,stop_all,0,2025-03-15 19:45:51,Europe/Warsaw
+2025-03-15 20:47:38+01:00,manual,timer,start,0,2025-03-15 19:47:38,Europe/Warsaw
+2025-03-15 20:47:46+01:00,manual,timer,stop_all,0,2025-03-15 19:47:46,Europe/Warsaw
+2025-03-15 20:48:32+01:00,manual,timer,start,0,2025-03-15 19:48:32,Europe/Warsaw
+2025-03-15 20:49:00+01:00,manual,timer,stop_all,0,2025-03-15 19:49:00,Europe/Warsaw
+2025-03-15 20:49:07+01:00,manual,timer,start,0,2025-03-15 19:49:07,Europe/Warsaw
+2025-03-15 20:53:28+01:00,manual,timer,stop_all,0,2025-03-15 19:53:28,Europe/Warsaw
+2025-03-15 20:54:42+01:00,manual,timer,start,0,2025-03-15 19:54:42,Europe/Warsaw
+2025-03-15 20:55:36+01:00,manual,timer,stop_all,0,2025-03-15 19:55:36,Europe/Warsaw

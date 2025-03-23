@@ -1,0 +1,2 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2024-12-03 21:26:36+01:00,manual,timer,start,0,2024-12-03 20:26:36,Europe/Warsaw

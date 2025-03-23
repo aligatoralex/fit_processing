@@ -1,0 +1,8 @@
+timestamp,start_time,start_position_lat,start_position_long,end_position_lat,end_position_long,total_elapsed_time,total_timer_time,total_distance,total_strides,total_calories,enhanced_avg_speed,avg_speed,enhanced_max_speed,max_speed,total_ascent,total_descent,event,event_type,avg_heart_rate,max_heart_rate,avg_running_cadence,max_running_cadence,lap_trigger,sub_sport,avg_fractional_cadence,max_fractional_cadence,total_fractional_cycles,avg_vertical_oscillation,avg_temperature,max_temperature,timestamp_utc,timezone
+2024-09-23 14:42:20-05:00,2024-09-23 19:36:56,,,,,324.172,323.049,200.0,,51,2.2284,2.2284,5.9544,5.9544,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2024-09-23 19:42:20,
+2024-09-23 14:45:17-05:00,2024-09-23 19:42:20,,,,,177.691,59.496,,,4,,,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2024-09-23 19:45:17,
+2024-09-23 14:46:29-05:00,2024-09-23 19:45:17,,,,,71.271,70.989,50.0,,16,2.5343999999999998,2.5343999999999998,3.114,3.114,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2024-09-23 19:46:29,
+2024-09-23 14:46:38-05:00,2024-09-23 19:46:29,,,,,9.718,9.718,,,1,,,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2024-09-23 19:46:38,
+2024-09-23 14:49:01-05:00,2024-09-23 19:46:38,,,,,143.015,143.001,100.0,,30,2.5164,2.5164,4.3128,4.3128,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2024-09-23 19:49:01,
+2024-09-23 14:49:21-05:00,2024-09-23 19:49:01,,,,,19.987,19.987,11.01,,2,1.9836000000000003,1.9836000000000003,,,,,lap,stop,,,,,time,lap_swimming,,,,,,,2024-09-23 19:49:21,
+2024-09-23 14:51:12-05:00,2024-09-23 19:49:21,,,,,110.139,110.139,86.22,,20,2.8188,2.8188,5.436,5.436,,,lap,stop,,,,,distance,lap_swimming,,,,,,,2024-09-23 19:51:12,

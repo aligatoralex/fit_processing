@@ -1,0 +1,2 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2025-01-14 12:40:45-06:00,manual,timer,start,0,2025-01-14 18:40:45,

@@ -1,0 +1,4 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2024-09-26 17:28:58+02:00,manual,timer,start,0,2024-09-26 15:28:58,Europe/Warsaw
+2024-09-26 17:47:13+02:00,manual,timer,stop_all,0,2024-09-26 15:47:13,Europe/Warsaw
+2024-09-26 17:47:13+02:00,manual,timer,start,0,2024-09-26 15:47:13,Europe/Warsaw
